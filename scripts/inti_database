@@ -33,7 +33,6 @@ use DataWarehouse;
 
 
 -- create schema for each layer - Bronze , Silver, Gold
-
 create schema bronze;
 go
 
@@ -42,4 +41,3 @@ go
 
 create schema gold;
 go
-
